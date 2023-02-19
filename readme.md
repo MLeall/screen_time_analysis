@@ -1,1 +1,1 @@
-A test project focused on training my skills with Python and datasets to detect fake news.
+A trial project focused on training my skills with Python and datasets.
